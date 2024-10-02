@@ -1,0 +1,6 @@
+FRM-30064: Unable to parse statement SELECT ALL CUSTOMER_LIST.CODE, CUSTOMER_LIST.CUSTOMER_NAME
+FROM CUSTOMER_LIST .
+ORA-00942: table or view does not exist
+Record Group LOV28
+Form: CUSTOMER_LIST
+FRM-30085: Unable to adjust form for output.
