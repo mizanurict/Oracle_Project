@@ -1,0 +1,7 @@
+FRM-30064: Unable to parse statement SELECT ALL EMP_BASIC_INFO.NAME, 
+EMP_BASIC_INFO.CODE, EMP_BASIC_INFO.GENDER, EMP_BASIC_INFO.NATIONAL_ID
+FROM EMP_BASIC_INFO .
+ORA-00942: table or view does not exist
+Record Group LOV24
+Form: EMP_INFO
+FRM-30085: Unable to adjust form for output.
