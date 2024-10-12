@@ -1,0 +1,4 @@
+FRM-30425: Summarized database item must reside in a block with Query All Records or Precompute Summaries set to Yes.
+Item: TOTAL_AMOUNT
+Block: ORDER_DETAILS
+FRM-30085: Unable to adjust form for output.
